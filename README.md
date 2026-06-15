@@ -107,8 +107,8 @@ pip install biopython
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone [https://github.com/CAASm1A/m1A](https://github.com/CAASm1A/m1A)
+cd m1A
 ```
 
 Before running, open `Rscript/00.config.R` and update **all** `/path/to/...` placeholders to match your local file system:
